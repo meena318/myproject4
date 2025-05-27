@@ -1,1 +1,5 @@
 hello git
+
+
+this is our first class
+and we are learning about git and github
